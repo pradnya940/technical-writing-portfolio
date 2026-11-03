@@ -54,5 +54,3 @@ Short answers to common technical questions.
 
 LinkedIn: (https://www.linkedin.com/in/pradnyaborude)
 Email: (psborude101@gmail.com)
-
-Email: [Add your professional email]
