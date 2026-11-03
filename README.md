@@ -32,7 +32,7 @@ Feature guides explaining how users interact with software tools.
 
 Short answers to common technical questions.
 
-* [Technical FAQ](faq/technical-faq.md)
+* [Technical FAQ](faq/technical-faq.md.
 
 ## Technical Skills Demonstrated
 
