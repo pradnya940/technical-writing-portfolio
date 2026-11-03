@@ -97,3 +97,7 @@ If Python is not recognized:
 ## Conclusion
 
 Python and Visual Studio Code are now configured to run a basic Python program.
+
+## Screenshot of Successful Execution
+
+![Python program output](../screenshots/python-hello-world.png)
